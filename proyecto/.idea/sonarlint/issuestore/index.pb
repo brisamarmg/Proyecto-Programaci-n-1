@@ -11,5 +11,6 @@ N
 src/main/java/model/Balsa.java,a/1/a18c21f8978910a564d2c64d3769e0be6983498a
 N
 src/main/java/model/Avion.java,7/7/7702a3c4ee380052b983d92911370e135f3bc8e7
-X
-(src/main/java/model/TipoCombustible.java,f/5/f50a7630c6096bcb437b46a1b437344a2e2c3ca6
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
