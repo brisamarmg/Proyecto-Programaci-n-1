@@ -6,4 +6,6 @@ import lombok.*;
 @Getter
 public class Vehiculo {
 
+    private String marca;
+
 }

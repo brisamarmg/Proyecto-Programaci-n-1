@@ -7,4 +7,6 @@ import lombok.Setter;
 @Getter
 public class Avion extends Vehiculo{
 
+
+
 }

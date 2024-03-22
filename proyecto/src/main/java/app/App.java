@@ -9,7 +9,8 @@ import java.util.Scanner;
 public class App {
     private static List<String> carros = new ArrayList<>();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         Scanner sc = new Scanner(System.in);
         int opcion;
 
@@ -108,6 +109,9 @@ public class App {
         System.out.println("**********************");
         System.out.println("Tipo de Gasolina");
         String tipoGasolina = sc.nextLine();
+        System.out.println("Marca del carro");
+        String marcaCarro = sc.nextLine();
+        carros.add(marcaCarro);
         carros.add(tipoGasolina);
     }
 
